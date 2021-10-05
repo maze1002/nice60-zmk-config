@@ -66,6 +66,6 @@
 	&kp LSHFT  &trans   &trans   &trans    &trans   &trans   &trans   &trans    &trans   &trans   &trans   &trans
 	&kp LCTRL  &trans   &kp LALT             &kp SPACE                          &trans   &trans   &trans   &trans
 			>;
-		}
+		};
 	};
 };
